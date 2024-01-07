@@ -65,6 +65,8 @@ p {
   border-radius: 10px;
   border: 0;
   margin: 5px;
+  
+  cursor: pointer;
 }
 .botonBorrar{
   color: white;
